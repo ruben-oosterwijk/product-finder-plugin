@@ -1,0 +1,8 @@
+{
+  "name": "product-finder",
+  "version": "1.0.0",
+  "description": "Identify one product from a large catalogue by asking only the questions that actually narrow it down. Ships with a worked dataset; bring your own to use it on another catalogue.",
+  "author": {
+    "name": "Ruben Oosterwijk"
+  }
+}

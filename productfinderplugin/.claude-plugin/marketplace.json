@@ -1,0 +1,18 @@
+{
+  "name": "vamozz",
+  "description": "Tools for guided quoting and product identification",
+  "owner": {
+    "name": "Ruben Oosterwijk"
+  },
+  "plugins": [
+    {
+      "name": "product-finder",
+      "description": "Identify one product from a large catalogue by asking only the questions that actually narrow it down. Ships with a worked dataset; bring your own to use it on another catalogue.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Ruben Oosterwijk"
+      }
+    }
+  ]
+}

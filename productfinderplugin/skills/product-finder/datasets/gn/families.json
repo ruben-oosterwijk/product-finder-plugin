@@ -1,0 +1,1641 @@
+[
+  {
+    "type_code": "BL2",
+    "category": "mooring",
+    "name": "SNATCH BLOCK WITH SAFETY WINDOW",
+    "sku_count": 7,
+    "parametric": false,
+    "wll_min": 35,
+    "wll_max": 250,
+    "specs": {
+      "Material": "Mild steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 proof load certificate",
+      "More information": "Sheaves with bronze bearing, | Sheaves with roller bearing on requested | Groove size can be changed on request for bigger rope sizes"
+    },
+    "application": []
+  },
+  {
+    "type_code": "BL3",
+    "category": "mooring",
+    "name": "SNATCH BLOCK FOR SHACKLE LIFTING",
+    "sku_count": 18,
+    "parametric": false,
+    "wll_min": 1.62,
+    "wll_max": 27.5,
+    "specs": {
+      "Material": "Mild steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 proof load certificate",
+      "More information": "Sheave with bronze bearing, | Sheaves with roller bearing on requested | Groove size can be changed on request for bigger rope sizes"
+    },
+    "application": []
+  },
+  {
+    "type_code": "D10",
+    "category": "shackles",
+    "name": "CROWN PIN SHACKLE",
+    "sku_count": 13,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "≤ 31999999 bow: High tensile steel | > 32140152 bow: Alloy steel | Pin: High tensile steel",
+      "Finish": "Self colored",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "D14",
+    "category": "shackles",
+    "name": "END JOINING SHACKLE WITH ROUND PIN",
+    "sku_count": 11,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Standards": "Generally according to ABNT NBR 13715",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Also to be used for mooring applications | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "D15",
+    "category": "shackles",
+    "name": "DEE SAFETY PIN SHACKLE",
+    "sku_count": 11,
+    "parametric": false,
+    "wll_min": 120,
+    "wll_max": 700,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "D16",
+    "category": "shackles",
+    "name": "JOINING SHACKLE WITH PEAR SHAPE PIN",
+    "sku_count": 0,
+    "parametric": true,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Standards": "ISO 1704",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Also to be used for mooring applications | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "D17",
+    "category": "shackles",
+    "name": "ANCHOR SHACKLE WITH OVAL PIN",
+    "sku_count": 0,
+    "parametric": true,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Standards": "ISO 1704",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Also to be used for mooring applications | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "D18",
+    "category": "mooring",
+    "name": "D-SHACKLE WITH ROULETTE THIMBLE",
+    "sku_count": 18,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Finish": "Shackle: Painted | Roulette thimble: Galvanized (MODU: Painted)",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Roulette thimble also separate available, see K17"
+    },
+    "application": [
+      "GN mooring type connectors are used in mobile, temporary and long term mooring lines. All types such as Shackles, H-links, Forged H-links, Plate connectors and PMS/LTM sockets are designed and made in our production facility located in the Netherlands.",
+      "GN is a DNV, ABS, Lloyd’s and BV approved manufacturer for mooring chain accessories. Our inhouse engineering department is able to design the right connector, FEA strength, Fatigue calculation, Classification design approvals, and a complete product certificate for use of this products in the mooring lines.",
+      "Shackles are mainly used on chain end links and can be made in all sizes to give the best fit connection.",
+      "Forged H-links can be special designed to fit common links and other connection points.",
+      "Plate connectors are mainly designed to connect chain to rope or rope to rope.",
+      "LTM Sockets are Forged and used on steel wire rope. Different type such as open and closed sockets can be made in any size and configuration.",
+      "For special designs which are not in accordance with ISO1704, classification design approval must be considered for full certification.",
+      "Contact form",
+      "Name",
+      "*",
+      "Company name",
+      "*",
+      "Telephone number",
+      "*",
+      "Email address",
+      "*",
+      "Comment",
+      "*",
+      "Do you want to know what we do with your data from this form? Then please read our",
+      "privacy statement",
+      ".",
+      "Send",
+      "Screenreaders should leave this field blank",
+      "© GN Rope Fittings. Grofsmederij Nieuwkoop B.V. - The Netherlands",
+      "Disclaimer",
+      "Cookie statement",
+      "Sitemap",
+      "Privacy Statement"
+    ]
+  },
+  {
+    "type_code": "H10",
+    "category": "shackles",
+    "name": "BOW SAFETY PIN SHACKLE",
+    "sku_count": 16,
+    "parametric": false,
+    "wll_min": 120,
+    "wll_max": 2000,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Standards": "Generally according to US Federal Spec RR-C-271",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "H10S",
+    "category": "shackles",
+    "name": "BOW SAFETY PIN SHACKLE [SUPER]",
+    "sku_count": 11,
+    "parametric": false,
+    "wll_min": 30,
+    "wll_max": 400,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "≤ 55 ton galvanized | > 55 ton painted",
+      "Temperature range": "≤ 55 ton -20°C up to +200°C | > 55 ton -40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "H11",
+    "category": "shackles",
+    "name": "HEAVY DUTY DOUBLE NUT SHACKLE",
+    "sku_count": 13,
+    "parametric": false,
+    "wll_min": 34,
+    "wll_max": 325,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times, except the special types",
+      "Finish": "Galvanized with stainless steel cotter pins",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request | Ensure that the load is centralized on the pin | When there is too much space in the jaw gap, we advise to use washers | These are available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "H12",
+    "category": "shackles",
+    "name": "DOUBLE PIN / SNOTTER SHACKLE",
+    "sku_count": 4,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Body: High tensile steel | Pin: Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request | Ensure that the load is centralized on the pin | When there is too much space in the jaw gap, we advise to use washers | These are available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "H14",
+    "category": "shackles",
+    "name": "WIDE BODY SHACKLE",
+    "sku_count": 22,
+    "parametric": false,
+    "wll_min": 30,
+    "wll_max": 3000,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "≤ 1750 ton 5 times | 2000 ton 4,5 times | ≥ 2500 ton 4 times",
+      "Finish": "Painted",
+      "Temperature range": "≤ 40 ton -20°C up to +200°C | > 40 ton -40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "H15",
+    "category": "mooring",
+    "name": "PLATE CONNECTOR / THIMBLE SHACKLE",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "GN mooring type connectors are used in mobile, temporary and long term mooring lines. All types such as Shackles, H-links, Forged H-links, Plate connectors and PMS/LTM sockets are designed and made in our production facility located in the Netherlands.",
+      "GN is a DNV, ABS, Lloyd’s and BV approved manufacturer for mooring chain accessories. Our inhouse engineering department is able to design the right connector, FEA strength, Fatigue calculation, Classification design approvals, and a complete product certificate for use of this products in the mooring lines.",
+      "Shackles are mainly used on chain end links and can be made in all sizes to give the best fit connection.",
+      "Forged H-links can be special designed to fit common links and other connection points.",
+      "Plate connectors are mainly designed to connect chain to rope or rope to rope.",
+      "LTM Sockets are Forged and used on steel wire rope. Different type such as open and closed sockets can be made in any size and configuration.",
+      "For special designs which are not in accordance with ISO1704, classification design approval must be considered for full certification.",
+      "Contact form",
+      "Name",
+      "*",
+      "Company name",
+      "*",
+      "Telephone number",
+      "*",
+      "Email address",
+      "*",
+      "Comment",
+      "*",
+      "Do you want to know what we do with your data from this form? Then please read our",
+      "privacy statement",
+      ".",
+      "Send",
+      "Screenreaders should leave this field blank",
+      "© GN Rope Fittings. Grofsmederij Nieuwkoop B.V. - The Netherlands",
+      "Disclaimer",
+      "Cookie statement",
+      "Sitemap",
+      "Privacy Statement"
+    ]
+  },
+  {
+    "type_code": "H9",
+    "category": "shackles",
+    "name": "HIGH ALLOY SHACKLE",
+    "sku_count": 68,
+    "parametric": false,
+    "wll_min": 0.33,
+    "wll_max": 85,
+    "specs": {
+      "Material": "Forged high tensile steel quenched and tempered",
+      "Safety Factor": "6 times",
+      "Standards": "Generally according to US Federal Spec RR-C-271",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "HK12",
+    "category": "hooks",
+    "name": "KS HOOK",
+    "sku_count": 2,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S",
+      "Finish": "Painted, special specifications on request",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificated EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK14",
+    "category": "hooks",
+    "name": "SOFTSLING FRIENDLY ROV HOOK",
+    "sku_count": 19,
+    "parametric": false,
+    "wll_min": 35,
+    "wll_max": 1550,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificated EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK15",
+    "category": "hooks",
+    "name": "SOFTSLING FRIENDLY ROV TRANSFER HOOK",
+    "sku_count": 15,
+    "parametric": false,
+    "wll_min": 35,
+    "wll_max": 800,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificated EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK17",
+    "category": "hooks",
+    "name": "SOFTSLING FRIENDLY ROV CLEVIS HOOK",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificated EN 10204",
+      "More information": "Non-standard sizes and roll thimbles available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK2E",
+    "category": "hooks",
+    "name": "EYE HOOK (ROV)",
+    "sku_count": 33,
+    "parametric": false,
+    "wll_min": 8,
+    "wll_max": 100,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Spare latches available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK2S",
+    "category": "hooks",
+    "name": "EYE HOOK (ROV)",
+    "sku_count": 49,
+    "parametric": false,
+    "wll_min": 8,
+    "wll_max": 500,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Standards": "DIN 7540",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Spare latches available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK3",
+    "category": "hooks",
+    "name": "HEAVY DUTY PELICAN SLIPHOOK",
+    "sku_count": 12,
+    "parametric": false,
+    "wll_min": 3.5,
+    "wll_max": 200,
+    "specs": {
+      "Material": "High tensile steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK4",
+    "category": "hooks",
+    "name": "SLIPHOOK",
+    "sku_count": 6,
+    "parametric": false,
+    "wll_min": 0.4,
+    "wll_max": 9,
+    "specs": {
+      "Material": "Mild steel",
+      "Safety Factor": "4 times",
+      "Finish": "Galvanized",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Commercial quality"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK5",
+    "category": "hooks",
+    "name": "ROV SHANK HOOK",
+    "sku_count": 7,
+    "parametric": false,
+    "wll_min": 100,
+    "wll_max": 400,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Spare latches available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK5N",
+    "category": "hooks",
+    "name": "ROV SHANK HOOK",
+    "sku_count": 10,
+    "parametric": false,
+    "wll_min": 6.5,
+    "wll_max": 85,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Spare latches available on request"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "HK6",
+    "category": "hooks",
+    "name": "ANCHOR LINE HOOK",
+    "sku_count": 5,
+    "parametric": false,
+    "wll_min": 15,
+    "wll_max": 80,
+    "specs": {
+      "Material": "Cast steel",
+      "Safety Factor": "4 times",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity"
+    },
+    "application": [
+      "Hooks are used in towing, mooring and lifting systems as a connection between slings, rope, wire rope and chain.",
+      "ROV type hooks are modified for easy ROV handling during hook-up or release.",
+      "Eye hooks HK2 are generally used for lifting systems. The HK2 modified ROV type can be used subsea. Slip or pelican HK3 and HK4 hooks are generally used for towing systems as a quick release application. ROV shank hooks HK5 are specially designed for subsea use by ROV’s. Due the shape and size of the shank the ROV has a perfect on the hook. Anchor line hooks HK6 are designed for release of anchor lines. Soft sling hooks HK14 are specially designed with an enlarged radius to protect the soft sling for bending damage, which improves the durability of the softsling. KS-hooks HK12 are used in mooring lines"
+    ]
+  },
+  {
+    "type_code": "K10",
+    "category": "thimbles",
+    "name": "THIMBLE WITH LINK",
+    "sku_count": 20,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Thimble: Mild steel | Link: Alloy steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204 for link only",
+      "More information": "Suitable for fibre rope | Special link or thimble on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K11",
+    "category": "thimbles",
+    "name": "TUBULAR THIMBLE",
+    "sku_count": 9,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for fibre rope"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K12",
+    "category": "thimbles",
+    "name": "TUBULAR THIMBLE WITH LINK",
+    "sku_count": 23,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Thimble: Mild steel | Link: Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204 for link only",
+      "More information": "Suitable for fibre rope | Special link or thimble on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K13",
+    "category": "thimbles",
+    "name": "BELLMOUTH THIMBLE",
+    "sku_count": 11,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel | Stainless steel | (Spools can be supplied in galvanized or stainless steel)",
+      "Finish": "Galvanized (mild steel) | Self colored (stainless steel)",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for fibre rope"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K14",
+    "category": "thimbles",
+    "name": "CAST THIMBLE",
+    "sku_count": 10,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Cast steel | Stainless steel",
+      "Finish": "Galvanized (mild steel) | Self colored (stainless steel)",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Suitable for fibre rope"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K17",
+    "category": "thimbles",
+    "name": "FORGED ROULETTE THIMBLE",
+    "sku_count": 2,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S | High tensile steel",
+      "Finish": "Painted or galvanized",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K18",
+    "category": "thimbles",
+    "name": "DIABOLIC SPOOL",
+    "sku_count": 19,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K2",
+    "category": "thimbles",
+    "name": "HEAVY DUTY STUB-END THIMBLE",
+    "sku_count": 21,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for wire rope | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K2-B",
+    "category": "thimbles",
+    "name": "HEAVY DUTY STUB-END THIMBLE REINFORCED",
+    "sku_count": 17,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for wire rope | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K2-C",
+    "category": "thimbles",
+    "name": "HIGH STRENGTH THIMBLE",
+    "sku_count": 9,
+    "parametric": false,
+    "wll_min": 25,
+    "wll_max": 250,
+    "specs": {
+      "Material": "Mild steel",
+      "Safety Factor": "≤ 85 ton 6 times | > 85 ton 5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for HMPE rope and wire rope | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K3",
+    "category": "thimbles",
+    "name": "FIBRE ROPE THIMBLE",
+    "sku_count": 15,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for fibre rope | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K3-B",
+    "category": "thimbles",
+    "name": "FIBRE ROPE THIMBLE REINFORCED",
+    "sku_count": 11,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for fibre rope | Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K4",
+    "category": "thimbles",
+    "name": "EGG SHAPED THIMBLE / ROUND THIMBLE",
+    "sku_count": 6,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Mild steel",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for wire or fibre rope"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "K5",
+    "category": "thimbles",
+    "name": "SOLID THIMBLE",
+    "sku_count": 15,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Cast steel",
+      "Finish": "Self colored",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity",
+      "More information": "Suitable for wire rope | Special holes for fittings or holes with (bronze) bushes on request"
+    },
+    "application": [
+      "Thimbles are used to protect steel wire rope, fibre rope or synthetic rope.",
+      "Steel wire rope thimbles: K2, K2-B, K4, and K5",
+      "Poly-Fibre rope thimbles: K3, K3-B, K4 and K10",
+      "High strength ropes (for example HMPE ropes): we recommend to use K2-C thimbles",
+      "SPM/Mooring rope thimbles: K11, K12, K13, K14 and K17"
+    ]
+  },
+  {
+    "type_code": "ROV",
+    "category": "shackles",
+    "name": "ROV PRODUCTS",
+    "sku_count": 28,
+    "parametric": false,
+    "wll_min": 25,
+    "wll_max": 400,
+    "specs": {
+      "Material": "Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request | Suitable on all our type dee, bow and wide body shackles"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "SC1",
+    "category": "links",
+    "name": "MASTERLINK",
+    "sku_count": 25,
+    "parametric": false,
+    "wll_min": 5,
+    "wll_max": 1500,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "≤ 12914000 - 400 ton: 5 times | > 12916000 - 400 ton: 4 times",
+      "Standards": "Generally according to EN 1677-4",
+      "Finish": "Painted",
+      "Temperature range": "≤ 12914000 - 400 ton, -20°C up to +200°C | > 12916000 - 400 ton, -40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC10",
+    "category": "links",
+    "name": "INSTALLATION LINK",
+    "sku_count": 0,
+    "parametric": true,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC11",
+    "category": "links",
+    "name": "OFFSHORE MASTER LINK",
+    "sku_count": 7,
+    "parametric": false,
+    "wll_min": 55,
+    "wll_max": 300,
+    "specs": {
+      "Material": "Alloy steel | Hardness less than 35 HRC / 328 HB | Yield strength less than 950 MPa",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC2",
+    "category": "links",
+    "name": "CONNECTING LINK FOR PENNANT LINES",
+    "sku_count": 1,
+    "parametric": false,
+    "wll_min": 110,
+    "wll_max": 110,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC3",
+    "category": "links",
+    "name": "CR CONNECTOR",
+    "sku_count": 3,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R4",
+      "Finish": "Self colored",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | Classification inspection certificate",
+      "More information": "Can be assembled with our range of swivels, CR-sockets and chains"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC4",
+    "category": "links",
+    "name": "PEAR CONNECTING LINK",
+    "sku_count": 3,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R4",
+      "Finish": "Self colored",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | Classification inspection certificate",
+      "More information": "Can be assembled with our range of swivels, CR-sockets and chains"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC5",
+    "category": "links",
+    "name": "MASTER LINK ASSEMBLY",
+    "sku_count": 8,
+    "parametric": false,
+    "wll_min": 70,
+    "wll_max": 400,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "≤ 300 ton: 5 times | > 350 ton: 4 times",
+      "Standards": "Generally according to EN 1677-4",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Links are used in lifting, mooring and anchor legs.",
+      "Master links (SC1) are used on 1 or 2 leg systems.",
+      "Master link assemblies (SC5) are used on 2- 3 and 4 leg systems.",
+      "Connecting links (SC2) are mainly used in pennant lines.",
+      "CR and Pear connectors (SC3 and SC4) are used for chain assembly and CR-Socket assemblies.",
+      "Chain adapters (SC7) are used for anchor chain legs."
+    ]
+  },
+  {
+    "type_code": "SC8",
+    "category": "mooring",
+    "name": "FORGED H-LINK",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "GN mooring type connectors are used in mobile, temporary and long term mooring lines. All types such as Shackles, H-links, Forged H-links, Plate connectors and PMS/LTM sockets are designed and made in our production facility located in the Netherlands.",
+      "GN is a DNV, ABS, Lloyd’s and BV approved manufacturer for mooring chain accessories. Our inhouse engineering department is able to design the right connector, FEA strength, Fatigue calculation, Classification design approvals, and a complete product certificate for use of this products in the mooring lines.",
+      "Shackles are mainly used on chain end links and can be made in all sizes to give the best fit connection.",
+      "Forged H-links can be special designed to fit common links and other connection points.",
+      "Plate connectors are mainly designed to connect chain to rope or rope to rope.",
+      "LTM Sockets are Forged and used on steel wire rope. Different type such as open and closed sockets can be made in any size and configuration.",
+      "For special designs which are not in accordance with ISO1704, classification design approval must be considered for full certification.",
+      "Contact form",
+      "Name",
+      "*",
+      "Company name",
+      "*",
+      "Telephone number",
+      "*",
+      "Email address",
+      "*",
+      "Comment",
+      "*",
+      "Do you want to know what we do with your data from this form? Then please read our",
+      "privacy statement",
+      ".",
+      "Send",
+      "Screenreaders should leave this field blank",
+      "© GN Rope Fittings. Grofsmederij Nieuwkoop B.V. - The Netherlands",
+      "Disclaimer",
+      "Cookie statement",
+      "Sitemap",
+      "Privacy Statement"
+    ]
+  },
+  {
+    "type_code": "SC9",
+    "category": "mooring",
+    "name": "FORGED Y-LINK",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "GN mooring type connectors are used in mobile, temporary and long term mooring lines. All types such as Shackles, H-links, Forged H-links, Plate connectors and PMS/LTM sockets are designed and made in our production facility located in the Netherlands.",
+      "GN is a DNV, ABS, Lloyd’s and BV approved manufacturer for mooring chain accessories. Our inhouse engineering department is able to design the right connector, FEA strength, Fatigue calculation, Classification design approvals, and a complete product certificate for use of this products in the mooring lines.",
+      "Shackles are mainly used on chain end links and can be made in all sizes to give the best fit connection.",
+      "Forged H-links can be special designed to fit common links and other connection points.",
+      "Plate connectors are mainly designed to connect chain to rope or rope to rope.",
+      "LTM Sockets are Forged and used on steel wire rope. Different type such as open and closed sockets can be made in any size and configuration.",
+      "For special designs which are not in accordance with ISO1704, classification design approval must be considered for full certification.",
+      "Contact form",
+      "Name",
+      "*",
+      "Company name",
+      "*",
+      "Telephone number",
+      "*",
+      "Email address",
+      "*",
+      "Comment",
+      "*",
+      "Do you want to know what we do with your data from this form? Then please read our",
+      "privacy statement",
+      ".",
+      "Send",
+      "Screenreaders should leave this field blank",
+      "© GN Rope Fittings. Grofsmederij Nieuwkoop B.V. - The Netherlands",
+      "Disclaimer",
+      "Cookie statement",
+      "Sitemap",
+      "Privacy Statement"
+    ]
+  },
+  {
+    "type_code": "SLIM",
+    "category": "shackles",
+    "name": "SLIMLINE PRODUCTS",
+    "sku_count": 31,
+    "parametric": false,
+    "wll_min": 25,
+    "wll_max": 500,
+    "specs": {
+      "Material": "Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request | Suitable on all our type dee, bow and wide body shackles"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "SO1",
+    "category": "sockets",
+    "name": "CLOSED SPELTER SOCKET",
+    "sku_count": 5,
+    "parametric": false,
+    "wll_min": 1.6,
+    "wll_max": 8,
+    "specs": {
+      "Material": "Cast steel",
+      "Safety Factor": "5 times",
+      "Standards": "Generally according to US Federal Spec RR-5-550D, type C",
+      "Finish": "Painted/Galvanized | ≤ Type No. 215 standard galvanized",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO12",
+    "category": "sockets",
+    "name": "STOPPER SOCKET",
+    "sku_count": 24,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel",
+      "Finish": "Zinc painted"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO2",
+    "category": "sockets",
+    "name": "OPEN SPELTER SOCKET",
+    "sku_count": 4,
+    "parametric": false,
+    "wll_min": 1.6,
+    "wll_max": 6,
+    "specs": {
+      "Material": "Cast steel",
+      "Safety Factor": "5 times",
+      "Standards": "Generally according to US Federal Spec RR-5-550D, type A",
+      "Finish": "Painted/Galvanized | ≤ Type No. 115 standard galvanized",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO3",
+    "category": "sockets",
+    "name": "OPEN WEDGE SOCKET",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Cast steel",
+      "Safety Factor": "5 times",
+      "Standards": "Generally according to US Federal Spec RR-5-550D, type B",
+      "Finish": "Painted/Galvanized | ≤ Type No. 5 standard galvanized",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO4",
+    "category": "sockets",
+    "name": "CR SOCKET",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Cast steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted/Galvanized | ≤ Type No. 519 standard galvanized",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO5",
+    "category": "sockets",
+    "name": "PMS / LTM FORGED SOCKET",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SO6",
+    "category": "sockets",
+    "name": "CR-D SOCKET",
+    "sku_count": 3,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R3/R3S/R4/R4S/R5",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Sockets attached to steel wire rope, used for lifting, anchoring system, anchor cables of oil platforms, towing cables or for fastening cables in construction purposes such as bridges, roof construction etc.",
+      "Sockets are the strongest steel wire rope end fitting available, and if they are assembled in the proper way they can meet at least the breaking strength of the steel wire rope.",
+      "Spelter sockets open, closed and wedge, SO1, SO2 and SO3 are used for lifting, rigging, towing and constructions. CR and CRD sockets, SO4 and SO6 are used in anchor lines for temporary and long term mooring between the chain and wire rope."
+    ]
+  },
+  {
+    "type_code": "SW1",
+    "category": "swivels",
+    "name": "CLOSED BODY SWIVEL",
+    "sku_count": 0,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "High tensile steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Swivels are used in lifting, mooring, and anchoring applications. All our swivels can be designed with roller, trust, plain and low friction bearings, depending on the application of use. Next our standard design in this catalogue, special dimensions and special designs are possible.",
+      "SW1 Closed body swivels are used mainly for rigging and lifting application for non-permanent applications, These swivels are made with a roller bearing. On request we can modify these for subsea use.",
+      "SW2/SW3 CR swivels, Chain and Rope are mainly used in anchor lines  between rope and chain, these swivels are designed for subsea use and have plain bearings. Our CR-Connector links are the perfect fit to the chain or socket."
+    ]
+  },
+  {
+    "type_code": "SW2",
+    "category": "swivels",
+    "name": "CR CHAIN SWIVEL",
+    "sku_count": 6,
+    "parametric": false,
+    "wll_min": 50,
+    "wll_max": 180,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity"
+    },
+    "application": [
+      "Swivels are used in lifting, mooring, and anchoring applications. All our swivels can be designed with roller, trust, plain and low friction bearings, depending on the application of use. Next our standard design in this catalogue, special dimensions and special designs are possible.",
+      "SW1 Closed body swivels are used mainly for rigging and lifting application for non-permanent applications, These swivels are made with a roller bearing. On request we can modify these for subsea use.",
+      "SW2/SW3 CR swivels, Chain and Rope are mainly used in anchor lines  between rope and chain, these swivels are designed for subsea use and have plain bearings. Our CR-Connector links are the perfect fit to the chain or socket."
+    ]
+  },
+  {
+    "type_code": "SW3",
+    "category": "swivels",
+    "name": "CR ROPE SWIVEL",
+    "sku_count": 6,
+    "parametric": false,
+    "wll_min": 50,
+    "wll_max": 180,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity"
+    },
+    "application": [
+      "Swivels are used in lifting, mooring, and anchoring applications. All our swivels can be designed with roller, trust, plain and low friction bearings, depending on the application of use. Next our standard design in this catalogue, special dimensions and special designs are possible.",
+      "SW1 Closed body swivels are used mainly for rigging and lifting application for non-permanent applications, These swivels are made with a roller bearing. On request we can modify these for subsea use.",
+      "SW2/SW3 CR swivels, Chain and Rope are mainly used in anchor lines  between rope and chain, these swivels are designed for subsea use and have plain bearings. Our CR-Connector links are the perfect fit to the chain or socket."
+    ]
+  },
+  {
+    "type_code": "SW6",
+    "category": "swivels",
+    "name": "CR-X MOORING SWIVEL",
+    "sku_count": 3,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R4/R5",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204"
+    },
+    "application": [
+      "Swivels are used in lifting, mooring, and anchoring applications. All our swivels can be designed with roller, trust, plain and low friction bearings, depending on the application of use. Next our standard design in this catalogue, special dimensions and special designs are possible.",
+      "SW1 Closed body swivels are used mainly for rigging and lifting application for non-permanent applications, These swivels are made with a roller bearing. On request we can modify these for subsea use.",
+      "SW2/SW3 CR swivels, Chain and Rope are mainly used in anchor lines  between rope and chain, these swivels are designed for subsea use and have plain bearings. Our CR-Connector links are the perfect fit to the chain or socket."
+    ]
+  },
+  {
+    "type_code": "SW7",
+    "category": "swivels",
+    "name": "DEEPWATER HEAVY DUTY SWIVEL",
+    "sku_count": 4,
+    "parametric": false,
+    "wll_min": 1250,
+    "wll_max": 1750,
+    "specs": {
+      "Material": "Alloy steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "Swivels are used in lifting, mooring, and anchoring applications. All our swivels can be designed with roller, trust, plain and low friction bearings, depending on the application of use. Next our standard design in this catalogue, special dimensions and special designs are possible.",
+      "SW1 Closed body swivels are used mainly for rigging and lifting application for non-permanent applications, These swivels are made with a roller bearing. On request we can modify these for subsea use.",
+      "SW2/SW3 CR swivels, Chain and Rope are mainly used in anchor lines  between rope and chain, these swivels are designed for subsea use and have plain bearings. Our CR-Connector links are the perfect fit to the chain or socket.",
+      "SW4/SW5 CR-D swivels are special design for easy handling and connecting. The removable clamp can be mounted to the chain or socket without using kenter shackles, or other connectors."
+    ]
+  },
+  {
+    "type_code": "T2",
+    "category": "mooring",
+    "name": "HEAVY DUTY TURNBUCKLE",
+    "sku_count": 42,
+    "parametric": false,
+    "wll_min": 13.5,
+    "wll_max": 250,
+    "specs": {
+      "Material": "High tensile steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 proof load certificate",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": []
+  },
+  {
+    "type_code": "TF1",
+    "category": "mooring",
+    "name": "TUNING FORK",
+    "sku_count": 10,
+    "parametric": false,
+    "wll_min": 55,
+    "wll_max": 225,
+    "specs": {
+      "Material": "High tensile steel",
+      "Safety Factor": "4 times",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity"
+    },
+    "application": []
+  },
+  {
+    "type_code": "TR1",
+    "category": "mooring",
+    "name": "TRIANGLE PLATE",
+    "sku_count": 17,
+    "parametric": false,
+    "wll_min": 17,
+    "wll_max": 900,
+    "specs": {
+      "Material": "High tensile steel",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": []
+  },
+  {
+    "type_code": "TR2",
+    "category": "mooring",
+    "name": "MOORING TRIANGLE & QUAD PLATE",
+    "sku_count": 2,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "Alloy steel, Grade R4/R5",
+      "Safety Factor": "5 times",
+      "Finish": "Painted",
+      "Temperature range": "-40°C up to +200°C, Polar Rated",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificated EN 10204",
+      "More information": "Non-standard sizes or custom products available on request"
+    },
+    "application": [
+      "GN mooring type connectors are used in mobile, temporary and long term mooring lines. All types such as Shackles, H-links, Forged H-links, Plate connectors and PMS/LTM sockets are designed and made in our production facility located in the Netherlands.",
+      "GN is a DNV, ABS, Lloyd’s and BV approved manufacturer for mooring chain accessories. Our inhouse engineering department is able to design the right connector, FEA strength, Fatigue calculation, Classification design approvals, and a complete product certificate for use of this products in the mooring lines.",
+      "Shackles are mainly used on chain end links and can be made in all sizes to give the best fit connection.",
+      "Forged H-links can be special designed to fit common links and other connection points.",
+      "Plate connectors are mainly designed to connect chain to rope or rope to rope.",
+      "LTM Sockets are Forged and used on steel wire rope. Different type such as open and closed sockets can be made in any size and configuration.",
+      "For special designs which are not in accordance with ISO1704, classification design approval must be considered for full certification.",
+      "Contact form",
+      "Name",
+      "*",
+      "Company name",
+      "*",
+      "Telephone number",
+      "*",
+      "Email address",
+      "*",
+      "Comment",
+      "*",
+      "Do you want to know what we do with your data from this form? Then please read our",
+      "privacy statement",
+      ".",
+      "Send",
+      "Screenreaders should leave this field blank",
+      "© GN Rope Fittings. Grofsmederij Nieuwkoop B.V. - The Netherlands",
+      "Disclaimer",
+      "Cookie statement",
+      "Sitemap",
+      "Privacy Statement"
+    ]
+  },
+  {
+    "type_code": "TUBE",
+    "category": "shackles",
+    "name": "TUBE PRODUCTS",
+    "sku_count": 24,
+    "parametric": false,
+    "wll_min": 25,
+    "wll_max": 300,
+    "specs": {
+      "Material": "Alloy steel",
+      "Finish": "Painted",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity | 3.1 material certificate EN 10204",
+      "More information": "Non-standard sizes or custom products available on request | Suitable on all our type dee, bow and wide body shackles"
+    },
+    "application": [
+      "Shackles are used in lifting and static systems as removable links to connect (steel) wire rope, chain and other fittings.",
+      "Chain or Dee shackles (H9, D15, H11 and D10 shackles) are mainly used on one-leg systems.",
+      "Anchor, Bow or Wide body shackles (H9, H10 and H14 shackles) are used on one leg and multi-leg systems.",
+      "End-Joining, Joining and Anchor shackles (D14, D16 and D17 shackles) are used in mooring or anchor lines."
+    ]
+  },
+  {
+    "type_code": "WC1",
+    "category": "mooring",
+    "name": "WIRE ROPE CLIP",
+    "sku_count": 7,
+    "parametric": false,
+    "wll_min": null,
+    "wll_max": null,
+    "specs": {
+      "Material": "High tensile steel",
+      "Standards": "Generally according to US Federal Spec FF-C-450",
+      "Finish": "Galvanized",
+      "Temperature range": "-20°C up to +200°C",
+      "Standard certification": "Certificate of Conformity"
+    },
+    "application": []
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "_comment": "Seed terminology dictionary. Terms bind to FACET VALUES, never to products, so a term learned once applies to every SKU with that attribute — including SKUs added later. In production this table is cold-started by mining 10 years of email against the matching Business Central quote records, then kept current by promoting terms the sales reps confirm.",
+  "_schema": { "term": "normalised lowercase", "lang": "ISO 639-1", "facet": "facet key", "value": "facet value", "confidence": "0-1", "source": "seed | mined | confirmed" },
+
+  "aliases": [
+    { "term": "shackle",      "lang": "en", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+    { "term": "sluiting",     "lang": "nl", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+    { "term": "harp",         "lang": "nl", "facet": "category", "value": "shackles", "confidence": 0.9,  "source": "seed" },
+    { "term": "schakel",      "lang": "de", "facet": "category", "value": "shackles", "confidence": 0.95, "source": "seed" },
+    { "term": "schäkel",      "lang": "de", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+    { "term": "grillete",     "lang": "es", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+    { "term": "manilha",      "lang": "pt", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+    { "term": "manille",      "lang": "fr", "facet": "category", "value": "shackles", "confidence": 1.0,  "source": "seed" },
+
+    { "term": "thimble",      "lang": "en", "facet": "category", "value": "thimbles", "confidence": 1.0,  "source": "seed" },
+    { "term": "kous",         "lang": "nl", "facet": "category", "value": "thimbles", "confidence": 1.0,  "source": "seed" },
+    { "term": "kausche",      "lang": "de", "facet": "category", "value": "thimbles", "confidence": 1.0,  "source": "seed" },
+    { "term": "guardacabo",   "lang": "es", "facet": "category", "value": "thimbles", "confidence": 1.0,  "source": "seed" },
+
+    { "term": "hook",         "lang": "en", "facet": "category", "value": "hooks", "confidence": 1.0,  "source": "seed" },
+    { "term": "haak",         "lang": "nl", "facet": "category", "value": "hooks", "confidence": 1.0,  "source": "seed" },
+    { "term": "haken",        "lang": "de", "facet": "category", "value": "hooks", "confidence": 1.0,  "source": "seed" },
+    { "term": "gancho",       "lang": "es", "facet": "category", "value": "hooks", "confidence": 1.0,  "source": "seed" },
+    { "term": "crochet",      "lang": "fr", "facet": "category", "value": "hooks", "confidence": 1.0,  "source": "seed" },
+
+    { "term": "swivel",       "lang": "en", "facet": "category", "value": "swivels", "confidence": 1.0,  "source": "seed" },
+    { "term": "wartel",       "lang": "nl", "facet": "category", "value": "swivels", "confidence": 1.0,  "source": "seed" },
+    { "term": "wirbel",       "lang": "de", "facet": "category", "value": "swivels", "confidence": 1.0,  "source": "seed" },
+
+    { "term": "socket",       "lang": "en", "facet": "category", "value": "sockets", "confidence": 1.0,  "source": "seed" },
+    { "term": "eindverbinding","lang": "nl","facet": "category", "value": "sockets", "confidence": 0.85, "source": "seed" },
+    { "term": "seilhülse",    "lang": "de", "facet": "category", "value": "sockets", "confidence": 0.9,  "source": "seed" },
+
+    { "term": "master link",  "lang": "en", "facet": "category", "value": "links", "confidence": 1.0,  "source": "seed" },
+    { "term": "schalm",       "lang": "nl", "facet": "category", "value": "links", "confidence": 0.9,  "source": "seed" },
+    { "term": "kettenglied",  "lang": "de", "facet": "category", "value": "links", "confidence": 0.9,  "source": "seed" },
+    { "term": "eslabón",      "lang": "es", "facet": "category", "value": "links", "confidence": 0.95, "source": "seed" },
+
+    { "term": "galvanized",   "lang": "en", "facet": "finish", "value": "galvanized", "confidence": 1.0,  "source": "seed" },
+    { "term": "galvanised",   "lang": "en", "facet": "finish", "value": "galvanized", "confidence": 1.0,  "source": "seed" },
+    { "term": "verzinkt",     "lang": "nl", "facet": "finish", "value": "galvanized", "confidence": 1.0,  "source": "seed" },
+    { "term": "galvanisiert", "lang": "de", "facet": "finish", "value": "galvanized", "confidence": 1.0,  "source": "seed" },
+    { "term": "galvanizado",  "lang": "es", "facet": "finish", "value": "galvanized", "confidence": 1.0,  "source": "seed" },
+    { "term": "hot dip",      "lang": "en", "facet": "finish", "value": "galvanized", "confidence": 0.9,  "source": "seed" },
+
+    { "term": "painted",      "lang": "en", "facet": "finish", "value": "painted", "confidence": 1.0,  "source": "seed" },
+    { "term": "gelakt",       "lang": "nl", "facet": "finish", "value": "painted", "confidence": 1.0,  "source": "seed" },
+    { "term": "geverfd",      "lang": "nl", "facet": "finish", "value": "painted", "confidence": 1.0,  "source": "seed" },
+    { "term": "lackiert",     "lang": "de", "facet": "finish", "value": "painted", "confidence": 1.0,  "source": "seed" },
+    { "term": "pintado",      "lang": "es", "facet": "finish", "value": "painted", "confidence": 1.0,  "source": "seed" },
+
+    { "term": "self coloured","lang": "en", "facet": "finish", "value": "self-coloured", "confidence": 1.0, "source": "seed" },
+    { "term": "self colored", "lang": "en", "facet": "finish", "value": "self-coloured", "confidence": 1.0, "source": "seed" },
+    { "term": "blank",        "lang": "nl", "facet": "finish", "value": "self-coloured", "confidence": 0.8, "source": "seed" },
+
+    { "term": "polar rated",  "lang": "en", "facet": "temp_rating", "value": "polar-rated", "confidence": 1.0,  "source": "seed" },
+    { "term": "polar",        "lang": "en", "facet": "temp_rating", "value": "polar-rated", "confidence": 0.9,  "source": "seed" },
+    { "term": "arctic",       "lang": "en", "facet": "temp_rating", "value": "polar-rated", "confidence": 0.85, "source": "seed" },
+    { "term": "-40",          "lang": "*",  "facet": "temp_rating", "value": "polar-rated", "confidence": 0.8,  "source": "seed" },
+    { "term": "low temperature","lang":"en", "facet": "temp_rating", "value": "polar-rated", "confidence": 0.8, "source": "seed" },
+
+    { "term": "3.1",          "lang": "*",  "facet": "certification", "value": "coc-plus-31-en10204", "confidence": 0.95, "source": "seed" },
+    { "term": "en 10204",     "lang": "*",  "facet": "certification", "value": "coc-plus-31-en10204", "confidence": 1.0,  "source": "seed" },
+    { "term": "material certificate", "lang": "en", "facet": "certification", "value": "coc-plus-31-en10204", "confidence": 0.9, "source": "seed" },
+    { "term": "materiaalcertificaat", "lang": "nl", "facet": "certification", "value": "coc-plus-31-en10204", "confidence": 0.9, "source": "seed" },
+    { "term": "werkscertificaat", "lang": "nl", "facet": "certification", "value": "coc-plus-31-en10204", "confidence": 0.85, "source": "seed" },
+    { "term": "dnv",          "lang": "*",  "facet": "certification", "value": "class-approved", "confidence": 0.9, "source": "seed" },
+    { "term": "abs",          "lang": "*",  "facet": "certification", "value": "class-approved", "confidence": 0.85, "source": "seed" },
+    { "term": "lloyds",       "lang": "*",  "facet": "certification", "value": "class-approved", "confidence": 0.9, "source": "seed" },
+    { "term": "class approved","lang": "en", "facet": "certification", "value": "class-approved", "confidence": 0.95, "source": "seed" },
+    { "term": "proof load",   "lang": "en", "facet": "certification", "value": "coc-plus-proof-load", "confidence": 0.95, "source": "seed" },
+
+    { "term": "bow",          "lang": "en", "facet": "variant", "value": "bow", "confidence": 1.0, "source": "seed" },
+    { "term": "beugel",       "lang": "nl", "facet": "variant", "value": "bow", "confidence": 0.85, "source": "seed" },
+    { "term": "omega",        "lang": "*",  "facet": "variant", "value": "bow", "confidence": 0.8, "source": "seed" },
+    { "term": "dee",          "lang": "en", "facet": "variant", "value": "dee", "confidence": 1.0, "source": "seed" },
+    { "term": "d-shackle",    "lang": "en", "facet": "variant", "value": "dee", "confidence": 0.95, "source": "seed" },
+    { "term": "jaw-jaw",      "lang": "en", "facet": "variant", "value": "jaw-jaw", "confidence": 1.0, "source": "seed" },
+    { "term": "eye-eye",      "lang": "en", "facet": "variant", "value": "eye-eye", "confidence": 1.0, "source": "seed" },
+    { "term": "eye-jaw",      "lang": "en", "facet": "variant", "value": "eye-jaw", "confidence": 1.0, "source": "seed" }
+  ],
+
+  "non_discriminating": {
+    "_comment": "Terms customers use constantly that do NOT narrow this catalogue. Recognising them is as valuable as recognising a facet: it stops the agent asking a pointless question and flags what actually needs a human. This list is a real output of mining the corpus.",
+    "colour": {
+      "terms": ["green", "groen", "yellow", "geel", "red", "rood", "orange", "ral", "colour", "color", "kleur", "farbe"],
+      "note": "The catalogue distinguishes finish (painted / galvanized / self-coloured), not colour. A specific colour is a paint-spec question for the order, not a product-selection facet — route it to a human or to a custom-finish note."
+    },
+    "custom": {
+      "terms": ["non-standard", "custom", "special", "op maat", "sonder", "bespoke"],
+      "note": "GN state on every product page that non-standard sizes and custom products are available on request. These can never be auto-quoted — escalate immediately."
+    }
+  }
+}
